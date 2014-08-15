@@ -1,0 +1,1 @@
+library dart_thrift_sample;
